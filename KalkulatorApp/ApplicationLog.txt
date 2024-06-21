@@ -1,0 +1,1 @@
+6/20/2024 8:25:21 PM: Aplikacja uruchamiała się przez 19640 ms, co przekracza próg 2000 ms.

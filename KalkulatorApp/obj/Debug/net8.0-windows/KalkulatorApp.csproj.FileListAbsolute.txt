@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\bin\Debug\net8.0-windows\KalkulatorApp.exe
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\bin\Debug\net8.0-windows\KalkulatorApp.deps.json
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\bin\Debug\net8.0-windows\KalkulatorApp.runtimeconfig.json
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\bin\Debug\net8.0-windows\KalkulatorApp.dll
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\bin\Debug\net8.0-windows\KalkulatorApp.pdb
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.AssemblyInfo.cs
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.dll
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\refint\KalkulatorApp.dll
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.pdb
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\KalkulatorApp.genruntimeconfig.cache
+C:\Users\User\Desktop\lab2.2\KalkulatorApp\obj\Debug\net8.0-windows\ref\KalkulatorApp.dll
